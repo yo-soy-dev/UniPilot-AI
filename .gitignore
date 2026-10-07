@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local vector databases / generated data
+*.faiss
+*.pkl
+*.pickle
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Ruff / mypy
+.ruff_cache/
+.mypy_cache/
