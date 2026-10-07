@@ -110,7 +110,7 @@ LANGGRAPH/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/unipilot-ai.git
+git clone https://github.com/yo-soy-dev/unipilot-ai.git
 cd unipilot-ai
 ```
 
@@ -292,7 +292,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Devansh Tiwari**
+**Devansh Kumar Tiwari**
 
 Full-Stack Developer | AI & Agentic AI Enthusiast
 
